@@ -13,6 +13,6 @@ def joke():
 def add(a, b):
     return int(a)+int(b)
 
-def shout():
-    print ("tree")
 
+def shout():
+    print("Kérsz valamit enni?")
