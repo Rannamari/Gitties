@@ -1,5 +1,7 @@
 def introduce():
     print("Hello, I'm Gittie")
+    print("I'm also transgender")
+    print("Please refer to me as ""xhe"" or I'll be triggered")
 
 
 def joke():
