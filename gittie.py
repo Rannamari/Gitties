@@ -15,5 +15,4 @@ def add(a, b):
 
 
 def shout(something):
-    return something
-
+    print("NOOOOOOOOOOOOOOOOOOOOOOOOOOOOo")
