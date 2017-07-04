@@ -14,5 +14,6 @@ def add(a, b):
     return int(a)+int(b)
 
 
-def shout():
-    print("JET FUEL CAN'T MELT STEEL BEAMS!")
+def shout(something):
+    return something
+
